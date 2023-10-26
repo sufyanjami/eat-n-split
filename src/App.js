@@ -18,6 +18,12 @@ const initialFriends = [
     image: "https://i.pravatar.cc/48?u=499476",
     balance: 0,
   },
+  {
+    id: 598763,
+    name: "Sufyan",
+    image: "https://i.pravatar.cc/48?u=49948",
+    balance: -100,
+  },
 ];
 
 export default function App() {
